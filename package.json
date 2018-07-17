@@ -18,5 +18,9 @@
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
   }
 }
