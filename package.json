@@ -1,0 +1,8 @@
+{
+  "name": "webpack-react-typescript-jest-template",
+  "version": "1.0.0",
+  "description": "Webpack React TypeScript Jest Template",
+  "main": "index.js",
+  "author": "Rafael Furry",
+  "license": "MIT"
+}
